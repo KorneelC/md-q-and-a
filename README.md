@@ -20,4 +20,9 @@ Wat eet je vandaag? bold
 **bicky**
 coffee or energy drinks? answer in italic (Luna)
 
-*Nalu or coffee*. Do you smoke ? |bold| (Laurens)
+*Nalu or coffee*. Do you smoke ? |bold| (Laurens) 
+
+𝐯𝐞𝐫𝐲 𝐦𝐮𝐜𝐡 (kajetan)
+
+
+
