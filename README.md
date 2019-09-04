@@ -15,3 +15,7 @@ __Whale Axel__
 _De eerst pauze is om 10u00._  Katrien
 
 Wat eet je vandaag? bold
+
+
+**bicky**
+coffee or energy drinks? answer in italic (Luna)
