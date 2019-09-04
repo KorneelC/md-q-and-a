@@ -11,3 +11,7 @@ Write your answer bold.
 __Whale Axel__
 
 *wanneer is de eerste pauze, answer in italic*
+
+_De eerst pauze is om 10u00._  Katrien
+
+Wat eet je vandaag? bold
